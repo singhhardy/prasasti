@@ -55,7 +55,7 @@ function Home() {
               <div className='bar'></div>
               <br />
               <p className='fs-3'>Issue Digital Badges to Certificates to Students</p>
-              <div className='d-flex '>
+              <div className='d-flex sub-text'>
               <h5 className='p-heading fs-5'><span className='primary-dot'>.</span>  Daily Track</h5>
               <h4 className='p-heading fs-5 mx-5'><span className='primary-dot px-3'>.</span>  Road Map</h4>
               </div>
@@ -75,7 +75,7 @@ function Home() {
               <div className='bar'></div>
               <br />
               <p className='fs-3'>Builds students digital profile from School age</p>
-              <div className='d-flex '>
+              <div className='d-flex sub-text'>
               <h4 className='p-heading fs-5 '><span className='primary-dot'>.</span>  Remote Access</h4>
               <h4 className='p-heading fs-5 mx-5'><span className='primary-dot'>.</span>  Work Anytime</h4>
               </div>
@@ -101,7 +101,7 @@ function Home() {
               <div className='bar'></div>
               <br />
               <p className='fs-3'>Make your Hackathon more impactful for the participants. </p>
-              <div className='d-flex '>
+              <div className='d-flex sub-text'>
               <h4 className='p-heading fs-5'><span className='primary-dot'>.</span>  Career Success</h4>
               <h4 className='p-heading fs-5 mx-5'><span className='primary-dot px-3'>.</span>  Drive Demand</h4>
               </div>

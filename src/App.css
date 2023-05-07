@@ -196,8 +196,45 @@ p{
 }
 
 
+
 @media(max-width: 1000px){
     .sideimg{
         display: none;
     }
+    .nums{
+        font-size: 40px;
+    }
+
+    .input-group{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .show-input{
+        width: 100% !important;
+        border-radius: 10px 10px 10px 10px !important;  
+    }
+    .show-btn{
+        border-radius: 10px 10px 10px 10px !important;
+        margin-top: 10px;
+    }
+
+    .sub-text{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .sub-text h4{
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+    .sub-text h4 span{
+        padding: 0;
+    }
+
+    .text-icon{
+        padding: 20px;
+    }
+
 }

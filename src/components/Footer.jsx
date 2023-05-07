@@ -38,7 +38,6 @@ function Footer() {
                         <input className="form-control rounded-0 py-2" placeholder="Add your Email" />
                         <button className="btn rounded-0 btn-primary">Submit</button>
                         </div>
-
                     </ul>
                 </div>
             </div>
