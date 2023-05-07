@@ -26,13 +26,13 @@ function Header() {
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link nav-text  fs-6 mx-3" href="/about-us">
-                  About
+                <a className="nav-link nav-text fs-6 mx-3" href="/achievements">
+                  Achievements
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link nav-text fs-6 mx-3" href="/achievements">
-                  Achievements
+                <a className="nav-link nav-text  fs-6 mx-3" href="/about-us">
+                  About
                 </a>
               </li>
               <li className="nav-item">
@@ -42,7 +42,7 @@ function Header() {
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="/contact-us">
-                <button className="primary-btn rounded-pill px-5 py-2 fs-6 " type="submit">
+                <button className="primary-btn rounded-pill px-4 py-2 fs-6 " type="submit">
               Contact Us
             </button>
                 </a>

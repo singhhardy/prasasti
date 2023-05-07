@@ -61,7 +61,7 @@ p{
 }
 
 .hero-bg{
-    width: 50%;
+    width: 40%;
     height: 100vh;
     position: absolute;
     top: 0;
@@ -190,12 +190,17 @@ p{
     letter-spacing: 10px;
 }
 
+.textarea{
+    height: 200px;
+}
 
 .footer{
     background: var(--footer-bg);
 }
 
-
+.contact{
+    overflow-x: hidden !important;
+}
 
 @media(max-width: 1000px){
     .sideimg{
